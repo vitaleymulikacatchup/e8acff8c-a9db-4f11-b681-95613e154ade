@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -180,7 +180,7 @@ export default function LandingPage() {
               id: "1",
               name: "Maria Ivanova",
               role: "Tourist",
-              company: "Moscow, Russia",
+              company: "Kharkiv, Ukraine",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32SiMkwDFagCJqdtr8SgryeO9Cj/uploaded-1765883149392-2uba0n7c.jpg",
               imageAlt: "Maria Ivanova smiling"
